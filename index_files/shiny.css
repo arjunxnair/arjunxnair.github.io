@@ -31,7 +31,7 @@ pre.shiny-text-output {
   left: 0;
   right: 0;
   background-color: #999;
-  opacity: 0.5;
+  opacity: 1;
   overflow: hidden;
   z-index: 99998;
   pointer-events: none;
