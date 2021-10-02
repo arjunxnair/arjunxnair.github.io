@@ -23,20 +23,18 @@ dashSidebar<- dashboardSidebar(
   )
 )
 
+source('summary_ui.R')
+source('education_ui.R')
+source('workex_ui.R')
+
 ui <- dashboardPage(
   dashHeader,
   dashSidebar,
   dashboardBody(
-    tabItems(
-      # First tab content
-      tabItem(tabName = "dashboard",
-              h2("dashboard tab content")
-      ),
-
-      # Second tab content
-      tabItem(tabName = "widgets",
-              h2("Widgets tab content")
-      )
+    tabsetPanel(
+      summary_ui,
+      education_ui,
+      workex_ui
     )
   )
 )
