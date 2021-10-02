@@ -4,7 +4,7 @@ ui <- fluidPage(
     sidebarLayout(
         sidebarPanel(
             width = 3,
-            h2("My Static website"),
+            h2("arjunxnair"),
             h3("Internal link example"),
             a(h4("Birds"),
               href = "#birds"),
