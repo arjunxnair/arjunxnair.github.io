@@ -1,17 +1,16 @@
 customTheme <- shinyDashboardThemeDIY(
   ### general
   appFontFamily = "Arial"
-  ,appFontColor = "#2D2D2D"
-  ,primaryFontColor = "#0F0F0F"
-  ,infoFontColor = "#0F0F0F"
+  ,appFontColor = "#003366"
+  ,primaryFontColor = "#003366"
+  ,infoFontColor = "#003366"
   ,successFontColor = "#0F0F0F"
   ,warningFontColor = "#0F0F0F"
   ,dangerFontColor = "#0F0F0F"
-  ,bodyBackColor = "#F0F0F0"
+  ,bodyBackColor = "#FFFFFF"
   
   ### header
   ,logoBackColor = "#000000"
-  
   ,headerButtonBackColor = "#000000"
   ,headerButtonIconColor = "#DCDCDC"
   ,headerButtonBackColorHover = "#646464"

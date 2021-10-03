@@ -3,7 +3,9 @@ library(shinydashboard)
 library(dashboardthemes)
 
 dashHeader<- dashboardHeader(
-  title = tags$b('arjunxnair'),
+  #title = tags$b('arjunxnair'),
+  title = tags$a(href='https://arjunxnair.github.io/',
+                  tags$img(src='arjunxnair.png',height='25',width='100')),
   titleWidth = 251,
   dropdownMenu(type = "messages", badgeStatus = "success",
                messageItem("Note",
