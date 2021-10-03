@@ -1,3 +1,3 @@
-education_ui <- tabPanel('Education', 
+education_ui <- tabPanel('Areas Of Interest', 
               h5("xx")
 )

@@ -1,3 +1,3 @@
-workex_ui <- tabPanel('Work Experience', 
+workex_ui <- tabPanel('Articles', 
               h5("xxx")
 )
