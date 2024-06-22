@@ -22,4 +22,4 @@ As an independent contractor, I have worked across various business units (Marke
 - Developed various KPI dashboards and automated reports on Business Performance and Campaign Analytics.
 
 
-[Home](./)
+[Home](https://arjunxnair.github.io/)
