@@ -30,3 +30,6 @@ Data and Analytics professional with over 15 years of diverse industry experienc
 - AWS Databricks Platform Architect
 - PRINCE2 Agile Practitioner, Agile Project Management Certification – Axelos, UK
 - Innovation Academy –Analytics (Massachusetts Institute of Technology) – Accenture
+
+
+[Go to Subpage 1](./colossalbet/)
