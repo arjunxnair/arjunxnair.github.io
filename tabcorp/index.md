@@ -1,6 +1,6 @@
 ### Tabcorp
 
-As an independent contractor, I have worked across various business units (Marketing, Strategy and Enterprise Risk) at Tabcorp on a number of Data and Analytics projects over a period of 3.5 yrs
+As an independent contractor, I have worked across various business units (Marketing, Strategy and Enterprise Risk) at Tabcorp on a number of Data and Analytics initiatives over a period of ~ 4 years
 
 #### Data Strategy and Data Architecture
 - Data Lead for integration projects, while we merged the Tatts and Tabcorp wagering businesses, the role included implementing various strategic data initiatives.
@@ -17,5 +17,9 @@ As an independent contractor, I have worked across various business units (Marke
 
 #### Customer Analytics/Insights and Digital Marketing
 - Delivered solutions on customer analytics and insights across Customer Acquisition, Customer Retention, Customer Profiling, Digital Marketing and Campaign Analytics.
+  
 #### Self Service Analytics and Visualization platform
 - Developed various KPI dashboards and automated reports on Business Performance and Campaign Analytics.
+
+
+[Home](./)
