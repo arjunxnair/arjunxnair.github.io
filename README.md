@@ -3,9 +3,9 @@
 Data and Analytics professional with over 15 years of diverse industry experience across Startups, Wagering, Technology, Consumer Goods, Entertainment, Telecom and Automotive sectors. My experience in Data and Analytics driven business transformation projects has helped build a strong understanding of leveraging analytics in various business context, develop exceptional stakeholder management skills, and create a proven track record of delivering business value to clients. I have a strong academic background in both business and technology, complemented with leadership experience throughout my professional career
 
 ### Latest Roles
-- Head of Data and Analytics \| [Colossalbet](./colossalbet/) (_2022-Current_)								       		
-- Lead Analytics Consultant	\| [Tabcorp](./tabcorp/) (_2016-2020_)	 			        		
-- Analytics Manager \| [Accenture](./accenture/) (_2013-2016_)
+- [Head of Data and Analytics \| Colossalbet](./colossalbet/) (_2022-Current_)								       		
+- [Lead Analytics Consultant \| Tabcorp](./tabcorp/) (_2016-2020_)	 			        		
+- [Analytics Manager \| Accenture](./accenture/) (_2013-2016_)
 
 ### Areas of Expertise
 - Management and Functional Consulting with a specialization in Data and Analytics
