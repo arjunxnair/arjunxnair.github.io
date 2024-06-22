@@ -1,4 +1,12 @@
 title: Arjun Nair
 logo: /assets/img/arjunxnair_scaled.png
-description: <a href="https://www.linkedin.com/in/arjunxnair/">LinkedIn Profile</a>
+description:
+  <br>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <i class="fa fa-linkedin-square" style="font-size:20px;color:#0072b1"></i> <a href="https://www.linkedin.com/in/arjunxnair/">LinkedIn Profile</a>
+  <br>
+  <i class="fa fa-phone-square" style="font-size:20px;color:#0072b1"></i> <a href="tel:61470304652">+61 470 304 652</a>
+  <br>
+  <i class="fa fa-envelope" style="font-size:16px;color:#0072b1" ></i> <a href="mailto:arjun.x.nair@outlook.com">arjun.x.nair@outlook.com</a>
+  <br>
 theme: jekyll-theme-minimal
