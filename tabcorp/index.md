@@ -23,3 +23,5 @@ As an independent contractor, I have worked across various business units (Marke
 
 
 [Home](https://arjunxnair.github.io/)
+
+<i class="fa fa-home" style="font-size:16px;color:#0072b1" ></i> <a href="https://arjunxnair.github.io/">Home</a>
