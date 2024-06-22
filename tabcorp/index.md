@@ -6,7 +6,7 @@ As an independent contractor, I have worked across various business units (Marke
 #### Data Strategy and Data Architecture
 - Data Lead for integration projects, while we merged the Tatts and Tabcorp wagering businesses, the role included implementing various strategic data initiatives.
 - Building a unified data hub for Tabcorp which involved streamlining data sourcing and integrating data from various source systems into a conformed business view (CBV) optimized for analytics.
-- The project involved data modeling using Dimensional Modeling (STAR schema), implementation of Slowly Changing Dimensions (SCD) essential for business analytics, building the ETL pipelines on spark SQL and delivering the data warehouse on AWS Redshift. 
+- The project involved data modeling using **Dimensional Modeling (STAR schema)**, implementation of **Slowly Changing Dimensions (SCD)** essential for business analytics, building the ETL pipelines on spark SQL and delivering the data warehouse on **AWS Redshift**. 
 - Providing the analytics team with low latency, traceable (data-lineage), richer and high-quality data to help generate business insights for improved business decisioning and risk mitigation.
 
 #### Data Engineering and Data Science Platform
@@ -19,6 +19,7 @@ As an independent contractor, I have worked across various business units (Marke
 
 #### Customer Analytics/Insights and Digital Marketing
 - Delivered solutions on customer analytics and insights across Customer Acquisition, Customer Retention, Customer Profiling, Digital Marketing and Campaign Analytics.
+- Streamlined data pipelines from **Salesforce** into **AWS Redshift**, developing a high level of technical proficiency working with Salesforce Service Cloud and Marketing Cloud data.
   
 #### Self Service Analytics and Visualization platform
 - Developed various KPI dashboards and automated reports on Business Performance and Campaign Analytics.
