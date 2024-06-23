@@ -1,7 +1,7 @@
 ### Tabcorp
 #### Lead Analytics Consultant (_Sep 2016 - Jun 2020_)
 
-As an independent contractor, I have worked across various business units (Marketing, Strategy and Enterprise Risk) at Tabcorp on a number of Data and Analytics initiatives over a period of ~ 4 years
+As an independent contractor, I have worked across various business units (Marketing, Strategy and Enterprise Risk) at [Tabcorp](https://www.tabcorp.com.au/) on a number of Data and Analytics initiatives over a period of ~ 4 years
 
 #### Data Strategy and Data Architecture
 - Data Lead for integration projects, while we merged the Tatts and Tabcorp wagering businesses, the role included implementing various strategic data initiatives.
