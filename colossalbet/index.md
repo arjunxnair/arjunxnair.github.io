@@ -10,7 +10,7 @@ Responsibilities: To drive business value from data and create a competitive dif
 - Focused on cloud-based managed service offerings to deliver various projects on budget and with limited resources, while enabling the scaling up and down of analytics services as per business requirements.
   
 #### Key Wagering Data Products Delivered
-- Built the ColossalbetIQ product, a personalized tips-generating service customized to an individual customer’s betting behavior. This service is displayed on their homepage and within racecards via APIs. Results include 32% of active customers betting on recommendations, an 8% increase in turnover, and a 4% increase in customer retention rates.
+- Built the **ColossalbetIQ** product, a personalized tips-generating service customized to an individual customer’s betting behavior. This service is displayed on their homepage and within racecards via APIs. Results include 32% of active customers betting on recommendations, an 8% increase in turnover, and a 4% increase in customer retention rates.
 - Developed the Personalized Promotions product, which generates tailor-made promotions for customers and displays them on their homepage (web/app) via APIs. This feature generates 22% of weekly cash flows from personalized promotion markets.
 - Created the Racing Form Data as a Service (DaaS) via APIs for the front-end UI, which scales across multiple brands mentioned above.
 - Developed the Affiliate Management and referral systems for tracking and monitoring referrals, including built-in commission calculations and payout for various affiliates.
