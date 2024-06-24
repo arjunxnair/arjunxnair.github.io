@@ -32,3 +32,6 @@ Responsibilities: To drive business value from data and create a competitive dif
 - As a technical leader, built, led, and mentored the data and analytics team, creating a high-performing and highly engaged team.
 - Advocated for a data-driven culture across the organization, promoting best practices, motivating and nurturing creativity, and helping grow the technical skills and improve data literacy of the broader team.
 - Accountable for vendor management and engagement, including pricing negotiations and support from various analytics vendors (AWS, Salesforce, FrankieOne, Tableau, R Studio Teams, Talend).
+
+
+<i class="fa fa-home" style="font-size:16px;color:#0072b1" ></i> <a href="https://arjunxnair.github.io/">Home</a>
