@@ -10,15 +10,15 @@ Responsibilities: To drive business value from data and create a competitive dif
 - Focused on cloud-based managed service offerings to deliver various projects on budget and with limited resources, while enabling the scaling up and down of analytics services as per business requirements.
   
 #### Key Wagering Data Products Delivered
-- Built the **ColossalbetIQ** product, a personalized tips-generating service customized to an individual customer’s betting behavior. This service is displayed on their homepage and within racecards via APIs. Results include 32% of active customers betting on recommendations, an 8% increase in turnover, and a 4% increase in customer retention rates.
+- Built the **ColossalbetIQ** product, an industry-first personalized tips-generating service customized to an individual customer’s betting behavior. This service is displayed on their homepage and within racecards via APIs. Results include 32% of active customers betting on recommendations, an 8% increase in turnover, and a 4% increase in customer retention rates.
 - Developed the Personalized Promotions product, which generates tailor-made promotions for customers and displays them on their homepage (web/app) via APIs. This feature generates 22% of weekly cash flows from personalized promotion markets.
-- Created the Racing Form Data as a Service (DaaS) via APIs for the front-end UI, which scales across multiple brands mentioned above.
+- Created the **Racing Form Data as a Service (DaaS)** via APIs for the front-end UI, which scales across multiple brands mentioned above.
 - Developed the Affiliate Management and referral systems for tracking and monitoring referrals, including built-in commission calculations and payout for various affiliates.
 - Built the analytics reporting suite for Management, Finance, Trading, Operations, and Marketing teams.
 
 #### Customer Data Platform (CDP and CRM Systems)
-- Delivered the integration between the Data and Analytics platform and Salesforce Service Cloud and Salesforce Marketing Cloud.
-- Built the Single View of Customer in Salesforce Service Cloud, aggregating customer metrics and analytics trend values for use by customer care center agents during interactions.
+- Delivered the integration between the Data and Analytics platform and **Salesforce Service Cloud** and **Salesforce Marketing Cloud**.
+- Built the **Single View of Customer** in Salesforce Service Cloud, aggregating customer metrics and analytics trend values for use by customer care center agents during interactions.
 - Leveraged the Salesforce Case Management system to create and report on BDM and Agent Tasks across Sales, Marketing, and Operations teams for AML and Risk case management.
 - Built various marketing automation including customer journeys and retention programs, maintaining weekly retention rates of 60% and monthly retention rates of 50%.
 - Developed the generosity decision engine based on customer lifetime yield estimation to optimize the allocation of generosity across various customer segments.
