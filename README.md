@@ -25,9 +25,10 @@ Data and Analytics professional with over 15 years of diverse industry experienc
   - CGPA: 9.46/10 (Rank 2)    
 
 ### Certifications
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Data Analytics – Specialty
-- AWS Databricks Platform Architect
+- <a href = "https://www.coursera.org/account/accomplishments/verify/U53X956DCUF7">Generative AI with Large Language Models (DeepLearning.AI)</a>
+- <a href = "https://credentials.databricks.com/133f06ba-b7e1-4019-9185-b8506bf9ff13#gs.gjqxcm">AWS Databricks Platform Architect</a>
+- <a href = "https://www.credly.com/badges/2561c88d-8980-4723-b2c6-e8f1d1bb5273">AWS Certified Data Analytics – Specialty</a>
+- <a href = "https://www.credly.com/badges/558b7abc-d3ee-4065-896f-74db789dc1f3?source=linked_in_profile">AWS Certified Solutions Architect – Associate</a>
 - PRINCE2 Agile Practitioner, Agile Project Management Certification – Axelos, UK
 - Innovation Academy –Analytics (Massachusetts Institute of Technology) – Accenture
 
