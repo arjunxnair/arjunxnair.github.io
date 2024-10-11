@@ -14,8 +14,12 @@ As an independent contractor, I have worked across various business units (Marke
 - Setting up best practices around Data Engineering and building highly scalable, robust, and efficient data pipelines.
 
 #### Risk Management and AML
-- Worked with Risk stakeholders on streamlining customer onboarding KYC, creating a single view of Customer Risk, and operationalizing processes around the monitoring of Responsible Gambling
-- Created the Proof of concept for Transaction monitoring of cash transactions in the TAB retail network on graph database platform **Neo4j** for link analysis among anonymous cash transactions.
+- Collaborated with risk stakeholders to enhance customer onboarding KYC by analyzing GreenID data to identify verification gaps, leading to a 3% improvement in IDV pass rates through integration into risk dashboards and customer journeys.
+- Developed a single view of customer risk by integrating data from various sources, including KYC, transaction history, customer profiles, geolocation of retail transactions, and external publicly available databases. This provided a comprehensive view of account activity and enhanced risk assessment capabilities.
+- Contributed to the Transaction Monitoring capability upliftment project as a Technical SME, focusing on building rulesets for GBG products like Predator. This role involved defining business requirements, reconciliation, and testing.
+- Served as the Technical Data SME in the vendor capability assessment for transaction monitoring of cash transactions within the TAB retail network. This role involved defining business requirements related to fraud detection, reconciliation, automation, and compliance.
+- Created the initial proof of concept for transaction monitoring of cash transactions in the TAB retail network using the **Neo4j** graph database platform. This POC focused on link analysis among anonymous cash transactions and was presented to the Risk team.
+- Contributed to the build and deployment of responsible gambling predictive risk models in the capacity of a data engineer, by building customer feature store to feed data into the TAB RG model.
 
 #### Customer Analytics/Insights and Digital Marketing
 - Delivered solutions on customer analytics and insights across Customer Acquisition, Customer Retention, Customer Profiling, Digital Marketing and Campaign Analytics.
